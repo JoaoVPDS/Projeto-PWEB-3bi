@@ -1,0 +1,2 @@
+var Nome = prompt("Olá, seja bem-vindo. Qual é o seu nome? ");
+alert(`Olá ${Nome}, este é um site críado em homenagem ao meu antigo professor de Programação Web, Guibson Santana. Infelizmente o mesmo teve que se ausentar do trabalho por motivos pessoais e o projeto perdeu o sentido que deveria ter (já que o novo professor provavelmente não vai entender). De qualquer jeito, decidi não mudá-lo pois estou sem tempo, então aproveite :)`)
